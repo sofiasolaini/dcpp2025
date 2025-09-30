@@ -12,4 +12,4 @@
 - To submit your essay you have to create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) on this repository
 ## Essay guidelines
 - 900 words max (around two pages)
-- On the topic you chose (list [here](https://docs.google.com/document/d/1L7-czWaXarH3VTyMG7-kAXfQvktqjbCPMQsHMMavdR0/edit?tab=t.0#heading=h.aez848adkk3) 
+- On the topic you chose (list [here](https://docs.google.com/document/d/1L7-czWaXarH3VTyMG7-kAXfQvktqjbCPMQsHMMavdR0/edit?tab=t.0#heading=h.aez848adkk3))
